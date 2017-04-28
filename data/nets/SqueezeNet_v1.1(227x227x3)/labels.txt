@@ -1,0 +1,9 @@
+background
+bicycle
+bus
+car
+motorbike
+person
+tram
+truck
+van

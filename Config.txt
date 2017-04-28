@@ -1,0 +1,8 @@
+net_path 	= data/nets/SqueezeNet_v1.1(114x114x3_lr)
+scaling_factor 	= 80
+maxObjs 	= 10
+probTH 		= 0.872
+distanceTH 	= 0.013
+avgColorTH 	= 0.03
+noUpdateTH 	= 0
+lifetimeTH 	= 12

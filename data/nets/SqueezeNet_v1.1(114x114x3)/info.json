@@ -1,0 +1,26 @@
+{
+    "caffe flavor": "BVLC",
+    "caffe version": "1.0.0-rc3",
+    "creation time": "2017-02-19 15:31:37.015382",
+    "dataset_id": "20170219-152529-d881",
+    "deploy file": "deploy.prototxt",
+    "digits version": "5.1-dev",
+    "framework": "caffe",
+    "id": "20170219-153137-0640",
+    "image dimensions": [
+        128,
+        128,
+        3
+    ],
+    "image resize mode": "squash",
+    "job id": "20170219-153137-0640",
+    "labels file": "labels.txt",
+    "mean file": "mean.binaryproto",
+    "model file": "original.prototxt",
+    "name": "SqueezeNet v1.1 on VOC2012_6.0 128x128, lr=0.01, epochs=50, pretrained, AdaGrad, fine tuning all layers",
+    "snapshot file": "snapshot_iter_37750.caffemodel",
+    "solver file": "solver.prototxt",
+    "status": "Done",
+    "train_val file": "train_val.prototxt",
+    "username": "leonardo"
+}
